@@ -87,7 +87,7 @@ body{    background-color: #32184b;      }
 
 
 /*Mobile*/
-@media screen and (min-width: 780px){
+@media screen and (max-width: 780px){
     .search-wrapper input,
     .search-wrapper button {
         font-size: .6em;
