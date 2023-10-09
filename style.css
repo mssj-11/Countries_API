@@ -90,6 +90,6 @@ body{    background-color: #32184b;      }
 @media screen and (max-width: 780px){
     .search-wrapper input,
     .search-wrapper button {
-        font-size: .8em;
+        font-size: .7em;
     }
 }
